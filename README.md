@@ -19,3 +19,7 @@ A joystick controlled Arduino UNO car with an ultrasonic radar that senses its e
 - An speaker
 - Joystick
 - Arduino UNO (or higher)
+
+### Car prototype
+![alt text](https://github.com/AlejandroCovarrubias/Sonar_Car/blob/master/car_prototype.png?raw=true)
+Yours could look better...
