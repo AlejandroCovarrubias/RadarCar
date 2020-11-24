@@ -10,7 +10,7 @@ A joystick controlled Arduino UNO car with an ultrasonic radar that senses its e
 ## Basic Circuit
 ![alt text](https://github.com/AlejandroCovarrubias/Sonar_Car/blob/master/circuit_diagram.png?raw=true)
 
-## Materials and components
+### Materials and components
 - Servo Motor
 - Ultrasonic sensor
 - 9V Battery
